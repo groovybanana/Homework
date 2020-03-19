@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Hello and welcome to my website template builder.
 
-You can use the [editor on GitHub](https://github.com/groovybanana/Homework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There are two different ways to build a website using this.  You can use either a Bash script (build.sh) or a Python script (build.py).  Running either of these scripts will combine the top and bottom template file, found in the Template folder, with the files found in the content folder building a website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/groovybanana/Homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You will also find additional bash and python scripts found in the port folder.  These will build a different website, using the same principle as above.
