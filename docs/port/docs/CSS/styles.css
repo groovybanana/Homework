@@ -74,13 +74,3 @@ ul.paws {
     color: darkslategray;
     }
 
-.bimgright {
-	float:right; 
-	margin:20px;
-}
-
-.bimgleft {
-	display: inline;
-	float:left; 
-	margin:20px;
-}
