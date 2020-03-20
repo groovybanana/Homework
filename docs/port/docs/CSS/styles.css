@@ -72,15 +72,13 @@ h2 {
 ul.paws {
     list-style-image: url("../img/paw.png");
     color: darkslategray;
-    }
-
-.bimgright {
-	float:right; 
-	margin:20px;
 }
 
+<<<<<<< HEAD
 .bimgleft {
 	display: inline;
 	float:left; 
 	margin:20px;
 }
+=======
+>>>>>>> e06bb4e7f0d5dd87155e229326addb5bf7ce10e7
