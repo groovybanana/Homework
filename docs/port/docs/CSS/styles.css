@@ -75,13 +75,13 @@ ul.paws {
     }
 
 .bimgright {
-    float:right; 
-    margin:20px;
+	float:right; 
+	margin:20px;
 }
-    
+
 .bimgleft {
-    display: inline;
-    float:left; 
-    margin:20px;
+	display: inline;
+	float:left; 
+	margin:20px;
 }
-    
+
